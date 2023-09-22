@@ -1,0 +1,21 @@
+{
+	"CONTRACT_ADDRESS": "0xe1e79beaa9ae7537af3a137f8c27ca8a75ae2a94",
+	"SCAN_LINK": "https://otter.pulsechain.com/address/",
+	"NETWORK": {
+		"NAME": "Pulse",
+		"SYMBOL": "PLS",
+		"ID": 369
+	},
+	"NFT_NAME": "Mycelians",
+	"SYMBOL": "MYCL",
+	"MAX_SUPPLY": 3333,
+	"DISPLAY_COST": 400000,
+	"GAS_LIMIT": 400000,
+	"MAX_PER_TX": 100,
+	"MARKETPLACE": "https://opensea.io/",
+	"MARKETPLACE_LINK": "https://opensea.io/collection",
+	"Telegram": "https://t.me/TheMyceliansOfficial",
+	"Discord": "https://discord.gg/TheMyceliansOfficial",
+	"Twitter": "https://x.com/TheMycelians",
+	"SHOW_BACKGROUND": true
+}
